@@ -15,7 +15,7 @@ main:
     url: https://scholar.google.com/citations?user=wx6o08QAAAAJ&hl=es&oi=ao
     #url: /publications/
 
-    - title: "Job market paper"
+  - title: "Job market paper"
     url: https://journals.sagepub.com/doi/full/10.1177/09589287241290761
     #url: /publications/
 
