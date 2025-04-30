@@ -13,12 +13,14 @@ My research interests are in social policy, family sociology and public opinion.
 
 Doctoral research
 ======
-In my dissertation I examine the role of family constellations and family solidarity arrangements as an explanatory factor for welfare preferences.
-The following questions are addressed:
-- How does **receiving** family support against social risks such as youth unemployment or old-age care needs affect the incentives to support social policies that cover the same risks?
-- Consequently, how does **providing** family support against these social risks affect the incentives to support the corresponding social policies?
-- How do social policies target different family types when distributing benefits, services and tax obligations, and how does this targeting affect support for such policies?
-- How do national contexts differ in terms of social policy and family norms, and how do these differences moderate the relationships proposed above?
+My dissertation explores how family structures and patterns of familial support influence individuals' preferences for welfare policies. 
+Specifically, it investigates the following questions:
 
-I study these issues through the analysis of cross-country survey data for the European context, such as the European Social Survey or the Generations and Gender Survey.
+- In what ways does receiving family support for social risks—such as youth unemployment or the need for elderly care—shape individuals' willingness to endorse public policies addressing the same risks?
+- Conversely, how does providing such support within families influence attitudes toward state intervention in these areas?
+- How do social policies differentiate between family types in distributing benefits, services, and tax responsibilities, and what impact does this have on public support for these policies?
+- How do national differences in social policy and family norms influence the dynamics described above?
+
+To address these questions, I analyze cross-national survey data within the European context, drawing on sources such as the European Social Survey and the Generations and Gender Survey.
+
 
