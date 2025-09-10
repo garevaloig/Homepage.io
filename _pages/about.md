@@ -25,6 +25,6 @@ Specifically, it investigates the following questions:
 
 To address these questions, I analyze cross-national survey data within the European context, drawing on sources such as the European Social Survey and the Generations and Gender Survey.
 
-This dissertation was submitted in July, 2025 and the dissertation defense is schedule for the 23rd of October, 2025.
+This dissertation was submitted in July, 2025 and the dissertation defense is scheduled for the 23rd of October, 2025.
 
 
