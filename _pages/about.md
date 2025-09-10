@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a final year PhD candidate at the Bremen International Graduate School of Social Sciences.
+From the 1st of November 2025, I will join the Department of Political Science of the University of Amsterdam (UvA) as a postdoctoral researcher in the project 'Breaking the Silence: Politics, Workers’ Rights and the Future of Senior Care in Europe' funded by the Dutch Research Council (NWO-VIDI).
 
 My research interests are in social policy, family sociology and public opinion.
 
