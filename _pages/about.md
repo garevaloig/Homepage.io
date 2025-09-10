@@ -15,7 +15,7 @@ My research interests are in social policy, family sociology and public opinion.
 
 Doctoral research
 ======
-My dissertation explores how family structures and patterns of familial support influence individuals' preferences for welfare policies. 
+My dissertation 'Familialism Begets Familialism? How Family Solidarity Shapes Welfare Preferences in Europe', explores how family structures and patterns of familial support influence individuals' preferences for welfare policies. 
 Specifically, it investigates the following questions:
 
 - In what ways does receiving family support for social risks—such as youth unemployment or the need for elderly care—shape individuals' willingness to endorse public policies addressing the same risks?
@@ -24,5 +24,7 @@ Specifically, it investigates the following questions:
 - How do national differences in social policy and family norms influence the dynamics described above?
 
 To address these questions, I analyze cross-national survey data within the European context, drawing on sources such as the European Social Survey and the Generations and Gender Survey.
+
+This dissertation was submitted in July, 2025 and the dissertation defense is schedule for the 23rd of October, 2025.
 
 
