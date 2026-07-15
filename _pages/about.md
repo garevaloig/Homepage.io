@@ -26,8 +26,8 @@ Specifically, it investigates the following questions:
 - How do social policies differentiate between family types in distributing benefits, services, and tax responsibilities, and what impact does this have on public support for these policies?
 - How do cross-national differences in social policy and family norms influence the dynamics described above?
 
-To address these questions, I analysed cross-national survey data within the European context, drawing on sources such as the European Social Survey and the Generations and Gender Survey. The dissertation was supervised by Prof. Dr. Patrick Sachweh, Dr. Nate Breznau and Prof. Dr. Manuela Naldini.
+To address these questions, I analysed cross-national survey data within the European context, drawing on sources such as the European Social Survey and the Generations and Gender Survey.
 
-I defended my dissertation in October 2025, receiving a 'pass with distinction'.
+I defended my dissertation in October 2025, receiving a 'pass with distinction'. The dissertation was supervised by Prof. Dr. Patrick Sachweh, Dr. Nate Breznau and Prof. Dr. Manuela Naldini.
 
 
