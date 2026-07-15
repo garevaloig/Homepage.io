@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative social scientist with a focus on comparative social policy, public opinion and political participation.
+I am a post-doctoral social scientist with a focus on comparative social policy, public opinion and political participation.
+
+In particular, I am interested in how welfare preferences are shaped and subsequently articulated into political participation and institutional representation; and in how public opinion, participation opportunities and democratic representation are stratified along intersecting axes of social inequality, such as gender, migration, and social class. Within the social policy field, I pay special attention to the areas of care, family solidarity and housing.
 
 Current research: The political participation of care workers.
 ======
